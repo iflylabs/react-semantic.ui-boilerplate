@@ -4,13 +4,13 @@
         "id": 1,
         "title": "Task 1",
         "body": "Your first task is to get chat access token from one of our REST API endpoints. This token will be later on used in another task. To retrieve token send a POST request to the following URL: \"https://api1.iflychat.com/api/1.1/user/create\". The request should contain one parameter named \"app_id\" and its value should be \"fbd1156d-6e12-45ba-8a1c-01271ced5ece\".",
-        "footer": "Create a separate page like Dashboard for this task."
+        "footer": "Create a separate page (say Task 1) like Dashboard for this task."
       },
       {
         "id": 2,
         "title": "Task 2",
         "body": "Your second task is to retrieve online user list by making GET request to the following URL: \"https://api.iflychat.com/users/list/:token/c-g\" where :token is to be replaced with actual token from Task 1.",
-        "footer": "Create a separate page like Dashboard for this task."
+        "footer": "Create a separate page (say Task 2) like Dashboard for this task."
       },
       {
         "id": 3,

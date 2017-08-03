@@ -1,5 +1,9 @@
 # React-Semantic.UI-Boilerplate
 
+### Assignment Description
+
+Create a React App with the help of this boilerplate code and render the list of online users on a separate page. The assignment is divided into three tasks. To read more about them, install the app as described below.
+
 ### Usage
 
 #### Install:
@@ -19,13 +23,12 @@ npm run db  # run mock db for app(from another terminal/process -- without this 
 ###############################################################
 ```
 
-After this go to http://localhost:3000 and enter username as `test` and password as `test`.
-
-#### ENV vars:
-BASE_API - App uses this path for requests with relative urls. By default `http://localhost:4000/api/v1` - json-server.
-BASE_API is required for `npm run dev`
+After this go to http://localhost:3000 and enter username as `test` and password as `test`. You should be able to review all the three tasks subsequently.
 
 ### FAQ
+
+#### Where should I submit the assignment?
+Please mail us the assignment at careers@iflylabs.com along with your resume.
 
 #### Where are static assets?
 You can store static assets (images, videos) in `/static` folder.
